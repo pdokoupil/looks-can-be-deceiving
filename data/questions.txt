@@ -1,0 +1,25 @@
+1. The movies recommended to me matched my interests.
+2. The recommended movies were novel to me.
+3. The recommended movies were diverse.
+4. The information provided for the recommended movies was sufficient to judge whether I gonna like them.
+5. Do you remember the following movie?
+6. I found it easy to tell the system what movies I like or dislike.
+7. I found it easy to tell the system whether it did a good job.
+8. The description of relevance, diversity, and, novelty was clear and sufficient.
+9. I understood the purpose of tweaking relevance, diversity, and novelty.
+10. I believe recommender systems can be very useful to people. To answer this attention check question correctly, you must select 'Agree'
+11. The initial values of sliders already provided good recommendations.
+12. Being able to change relevance, diversity, and novelty ratios was useful for me.
+13. Overall, the effect of tweaking relevance, diversity, and novelty fulfilled my expectations.
+14. Do you remember the following movie?
+15. Overall, after modifying the relevance, diversity, and novelty ratios, recommendations improved.
+16. Modifying relevance, diversity, and, novelty values had a visible effect on the upcoming recommendations.
+17. The mechanism (slider) provided me with sufficient control over the recommendations.
+18. The mechanism (slider) was sufficient to tell the system what recommendations I want.
+19. Using this recommender system was entertaining and I would recommend it to my friends. To answer this attention check question correctly, you must select 'Strongly Disagree'.
+20. I was not able to describe my preferences w.r.t. relevance, diversity, and novelty.
+21. The mechanism (slider) for tweaking the objectives was understandable and intuitive.
+22. Do you remember the following movie?
+23. Appropriate values of relevance, diversity, and novelty ratios were easy to set.
+24. Overall, I am satisfied with the recommender.
+25. This recommender system provided me with many tips for interesting computer games.
