@@ -22,3 +22,5 @@ Repository contains the following files:
 - [data](./data) additional (input) data for the notebooks, can be downloaded from the [OSF.io repository](https://osf.io/7ekjp/?view_only=18f990bf547b4903b13ac3bc15544af1)
     - Note that if you need to run [ResultsGeneration.ipynb](./ResultsGeneration.ipynb), you will have to download (or provide) [movies.csv from Movielens Latest dataset](https://grouplens.org/datasets/movielens/latest/) and set `PATH_TO_ML_DATASET_MOVIES_DF`
       in [ResultsGeneration.ipynb](./ResultsGeneration.ipynb) accordingly.
+    - We also placed [questions.txt](./data/questions.txt) file that contains questions from the final questionnaire. Note that Q10, Q19, Q25 were attention checks. Moreover, Q5, Q14, Q22 were additional attention checks where users were asked whether they remember certain movies (picture of the movie was displayed below question, as can be seen on screenshots).
+- [screenshots](./screenshots/) contains screenshots from all parts of the user study website as seen by the participants.
