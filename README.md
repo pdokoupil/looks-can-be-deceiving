@@ -17,7 +17,8 @@ by elements that allow users to understand the recommendations, so as to facilit
 # Repository Structure
 Repository contains the following files:
 - [ResultsGeneration.ipynb](./ResultsGeneration.ipynb) Jupyter Notebook used to generate results in the paper
-- [AdditionalResultsGeneration.ipynb](./AdditionalResultsGeneration.ipynb) **TODO** Jupyter Notebook that can be used to generate additional results that did not make it to the paper
 - [results](./results) directory with results from the paper
-- [additional_results](./additional_results) **TODO** directory with additional results
+    - [results/demographics](./results/demographics/) contains additional demographic results for the participants
 - [data](./data) additional (input) data for the notebooks, can be downloaded from the [OSF.io repository](https://osf.io/7ekjp/?view_only=18f990bf547b4903b13ac3bc15544af1)
+    - Note that if you need to run [ResultsGeneration.ipynb](./ResultsGeneration.ipynb), you will have to download (or provide) [movies.csv from Movielens Latest dataset](https://grouplens.org/datasets/movielens/latest/) and set `PATH_TO_ML_DATASET_MOVIES_DF`
+      in [ResultsGeneration.ipynb](./ResultsGeneration.ipynb) accordingly.
